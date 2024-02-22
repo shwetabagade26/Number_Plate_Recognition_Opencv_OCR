@@ -1,7 +1,7 @@
 
-#**Project Name**: Simple License Plate Recognition (LPR) using Python & OpenCV <br>
+# **Project Name**: Simple License Plate Recognition (LPR) using Python & OpenCV <br>
 
-###**Objective:** Detect license plates in images and extract alphanumeric characters.<br>
+### **Objective:** Detect license plates in images and extract alphanumeric characters.<br>
 **Key Features:**<br>
 License plate detection in images.<br>
 Extraction of  license plate using ctrl + s.<br>
